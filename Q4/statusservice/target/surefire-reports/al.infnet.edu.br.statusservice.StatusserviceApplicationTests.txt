@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: al.infnet.edu.br.statusservice.StatusserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.422 s -- in al.infnet.edu.br.statusservice.StatusserviceApplicationTests
